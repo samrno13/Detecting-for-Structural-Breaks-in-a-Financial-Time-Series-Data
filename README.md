@@ -6,7 +6,7 @@
 
 **Overview**
 
-This financial econometrics project showcases the Bai-Perron test which is used for detecting a structural break date of the regime shift (Trump's global tariffs 2025-2026) in a financial time series data.
+This financial econometrics project showcases the Bai-Perron test which is used for detecting a structural break date of the regime shift (Trump's global tariffs 2025-2026) in a financial time series data. The financial time series data used was daily losses of a portfolio of five tech stocks with fixed number of shares for each stock; this data was extracted from Yahoo Finance.
 
 **Contents**
 * Extracting Financial Time Series Data
